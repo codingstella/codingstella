@@ -15,7 +15,7 @@
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on cool project.<br/>
+• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/coding.stella"><b>@coding.stella</b></a><br/>
 </span>
@@ -32,12 +32,13 @@
 <br /> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codingstella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codingstella&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="codingstella" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="codingstella" /></a> </p>
+
 
 ## 🌏 **CONNECT WITH ME**
 
@@ -194,7 +195,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)][mdn]
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+<!--[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]-->
 [![DigitalOcean](https://img.shields.io/badge/DO_Community-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)][doc]
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
@@ -224,9 +225,10 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-<!-- ![](https://img.shields.io/github/followers/codingstella?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
+![](https://img.shields.io/github/followers/codingstella?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codingstella) 
+ 
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codingstella)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
