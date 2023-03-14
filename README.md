@@ -202,12 +202,11 @@
 [wiki]: https://en.wikipedia.org/wiki/Main_Page
 [quora]: https://www.quora.com/
 [doc]: https://www.digitalocean.com/community
-[youtube]: https://www.instagram.com/p/Cbe0bkdLhNr/
 [udemy]: https://www.udemy.com/
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/hicodersofficial?tab=repositories
+[repo]: https://github.com/codingstella?tab=repositories
 
 <hr />
 
