@@ -23,13 +23,21 @@
 <br />
 <br />
 
-## 🏆 **GITHUB TROPHY**
+<!-- ## 🏆 **GITHUB TROPHY**
 
 ![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
 <a href="http://www.github.com/codingstella"><img src="https://activity-graph.herokuapp.com/graph?username=codingstella&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<br />
+<br /> -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codingstella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codingstella&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌏 **CONNECT WITH ME**
 
@@ -217,5 +225,8 @@
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <!-- ![](https://img.shields.io/github/followers/codingstella?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
+
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codingstella) 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
